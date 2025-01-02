@@ -1,4 +1,8 @@
 # Strix - A High-Performance String Utility Package
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/go-nop/strix/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/go-nop/strix)](https://github.com/go-nop/strix/releases/latest)
+![GolangVersion](https://img.shields.io/github/go-mod/go-version/go-nop/strix)
+[![Go Reference](https://pkg.go.dev/badge/github.com/go-nop/strix.svg)](https://pkg.go.dev/github.com/go-nop/strix)
 
 Strix is a Go package that provides high-performance string manipulation functions. It offers optimized versions of common string operations, such as `HasPrefix`, `HasSuffix`, `Index`, `Contains`, `Repeat`, and more.
 
